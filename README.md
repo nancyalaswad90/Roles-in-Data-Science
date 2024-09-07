@@ -42,3 +42,16 @@ This module will cover the core responsibilities of a Data Engineer, their colla
 
 ![image](https://github.com/user-attachments/assets/693562f3-ca4f-4ad4-9bbf-4bb5840f453d)
 
+.
+
+> ## Data Life Cycle Stages
+
+
+.
+The data life cycle is often described as a cycle because the lessons learned and insights gleaned from one data project typically inform the next. In this way, the final step of the process feeds back into the first.
+
+
+
+![image](https://github.com/user-attachments/assets/35a19a86-8163-4f32-b419-15982846ac1d)
+
+
