@@ -34,3 +34,9 @@
 > ## Data Engineer
 
 This module will cover the core responsibilities of a Data Engineer, their collaborative nature, and the skills needed to transform raw data into valuable assets.
+
+.
+
+![image](https://github.com/user-attachments/assets/9fe1e05c-aa55-4167-9dbb-45e069c517df)
+.
+
