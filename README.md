@@ -69,3 +69,5 @@ The data life cycle is often described as a cycle because the lessons learned an
 
 
 - [Cloud Computing In 6 Minutes | What Is Cloud Computing?](https://www.youtube.com/watch?v=M988_fsOSWo)
+
+- [Python - Introduction - W3Schools.com](https://www.w3schools.com/python/python_intro.asp)
