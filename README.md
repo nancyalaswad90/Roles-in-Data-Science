@@ -62,3 +62,7 @@ The data life cycle is often described as a cycle because the lessons learned an
 .
 
 ![image](https://github.com/user-attachments/assets/4a25bd48-75a3-4f32-81cb-b8f2e580f333)
+
+.
+
+> ## Idea for research  : [Big Data In 5 Minutes | What Is Big Data?| Big Data Analytics | Big Data Tutorial | Simplilearn](https://www.youtube.com/watch?v=bAyrObl7TYE&t=1s)
