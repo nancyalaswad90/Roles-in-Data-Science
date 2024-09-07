@@ -31,7 +31,7 @@
 
 .
 
-> ## Data Engineer
+> ## [Data Engineer](https://www.youtube.com/watch?v=wyGAYa2UMXQ)
 
 This module will cover the core responsibilities of a Data Engineer, their collaborative nature, and the skills needed to transform raw data into valuable assets.
 
@@ -39,4 +39,6 @@ This module will cover the core responsibilities of a Data Engineer, their colla
 
 ![image](https://github.com/user-attachments/assets/9fe1e05c-aa55-4167-9dbb-45e069c517df)
 .
+
+![image](https://github.com/user-attachments/assets/693562f3-ca4f-4ad4-9bbf-4bb5840f453d)
 
