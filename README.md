@@ -30,3 +30,7 @@
 
 
 .
+
+> ## Data Engineer
+
+This module will cover the core responsibilities of a Data Engineer, their collaborative nature, and the skills needed to transform raw data into valuable assets.
