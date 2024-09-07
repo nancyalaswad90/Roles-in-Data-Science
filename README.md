@@ -44,7 +44,7 @@ This module will cover the core responsibilities of a Data Engineer, their colla
 
 .
 
-> ## Data Life Cycle Stages
+> ## [Data Life Cycle Stages](https://online.hbs.edu/blog/post/data-life-cycle)
 
 
 .
