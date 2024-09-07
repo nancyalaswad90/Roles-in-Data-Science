@@ -54,4 +54,6 @@ The data life cycle is often described as a cycle because the lessons learned an
 
 ![image](https://github.com/user-attachments/assets/35a19a86-8163-4f32-b419-15982846ac1d)
 
+.
 
+![image](https://github.com/user-attachments/assets/4a25bd48-75a3-4f32-81cb-b8f2e580f333)
